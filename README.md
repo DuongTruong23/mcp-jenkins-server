@@ -15,6 +15,11 @@ The MCP Jenkins server refers to a Model Context Protocol server that facilitate
 - **Enhanced Security Compliance:** Integrating MCP can streamline compliance checks, automatically verifying deployments against the latest regulations.
 - **Fostering Innovation:** By allowing different tools to communicate effectively, teams may discover new solutions and approaches to challenges, driving innovation.
 
+# MCP-Powered CI/CD Pipeline Automation
+
+![image](https://github.com/user-attachments/assets/3f7d50cb-3c02-4b1c-9be7-8c39c6a30649)
+
+
 
 
 
