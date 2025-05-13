@@ -16,3 +16,7 @@ The MCP Jenkins server refers to a Model Context Protocol server that facilitate
 - **Fostering Innovation:** By allowing different tools to communicate effectively, teams may discover new solutions and approaches to challenges, driving innovation.
 
 
+
+
+# Links:
+https://www.byteplus.com/en/topic/541523?title=mcp-ci-cd-integration-revolutionizing-automated-deployment-workflows
