@@ -29,3 +29,9 @@ The MCP Jenkins server refers to a Model Context Protocol server that facilitate
 [2] https://blogs.cisco.com/developer/mcp-usecases 
 
 [3] https://www.piwheels.org/project/mcp-jenkins/
+
+[4] https://github.com/hekmon8/Jenkins-server-mcp
+
+[5] https://github.com/ProgrammerAgua/jenkins-mcp-server
+
+[6] https://pypi.org/project/mcp-jenkins/#description
