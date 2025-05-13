@@ -36,4 +36,4 @@ The MCP Jenkins server refers to a Model Context Protocol server that facilitate
 
 [6] https://pypi.org/project/mcp-jenkins/#description
 
-[7] https://smithery.ai/server/@TruongDuong23/mcp-jenkins-server/deployments
+[7] https://smithery.ai/server/%40lanbaoshen%2Fmcp-jenkins/tools
