@@ -37,7 +37,10 @@ NWS_API_BASE = "https://api.weather.gov"
 USER_AGENT = "weather-app/1.0"
 ```
 
----> The FastMCP class uses Python type hints and docstrings to automatically generate tool definitions, making it easy to create and maintain MCP tools.
+---> The FastMCP class uses Python type hints and docstrings to automatically generate tool definitions, making it easy to create and maintain MCP tools:
+- Send and receive data from MCP server
+- Manage version and authenticate
+- Fix error and response from host
 
 
 # Links:
