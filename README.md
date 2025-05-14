@@ -19,8 +19,25 @@ The MCP Jenkins server refers to a Model Context Protocol server that facilitate
 
 ![image](https://github.com/user-attachments/assets/3f7d50cb-3c02-4b1c-9be7-8c39c6a30649)
 
+# Why Claude for Desktop and not Claude.ai?
+Because servers are locally run, MCP currently only supports desktop hosts. Remote hosts are in active development.
 
+# Note
+1. 
+```Bash
+from typing import Any
+import httpx
+from mcp.server.fastmcp import FastMCP
 
+# Initialize FastMCP server
+mcp = FastMCP("weather")
+
+# Constants
+NWS_API_BASE = "https://api.weather.gov"
+USER_AGENT = "weather-app/1.0"
+```
+
+---> The FastMCP class uses Python type hints and docstrings to automatically generate tool definitions, making it easy to create and maintain MCP tools.
 
 
 # Links:
