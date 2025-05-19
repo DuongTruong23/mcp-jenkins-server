@@ -57,3 +57,13 @@ USER_AGENT = "weather-app/1.0"
 [6] https://pypi.org/project/mcp-jenkins/#description
 
 [7] https://smithery.ai/server/%40lanbaoshen%2Fmcp-jenkins/tools
+
+[8] https://mcpmarket.com/server/sonarqube (sonarqube apis)
+
+[9] https://github.com/lieee1995/mcp-jenkins-server
+
+
+
+
+
+
